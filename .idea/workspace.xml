@@ -2,13 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00988d75-4e79-4ef1-ac82-922882bd8453" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ca/bytetube/04_container/06_extends/DictExtends.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ca/bytetube/04_container/06_extends/ListExtends.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ca/bytetube/06_function/FuncDemo02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ca/bytetube/06_function/FuncDemo03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ca/bytetube/06_function/FuncDemo04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/06_function/AccountManagementSystem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/06_function/FuncDemo05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/06_function/FuncDemo06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/06_function/FuncDemo07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/06_function/FuncDemo08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/06_function/FuncDemo09.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ca/bytetube/06_function/FuncDemo01.py" beforeDir="false" afterPath="$PROJECT_DIR$/ca/bytetube/06_function/FuncDemo01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ca/bytetube/06_function/FuncDemo04.py" beforeDir="false" afterPath="$PROJECT_DIR$/ca/bytetube/06_function/FuncDemo04.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,15 +38,15 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/ca/bytetube/04_container/str" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/ca/bytetube/06_function" />
       <recent name="$PROJECT_DIR$/ca/bytetube/04_container/05_set" />
       <recent name="$PROJECT_DIR$/ca/bytetube/04_container/04_dict" />
       <recent name="$PROJECT_DIR$/ca/bytetube/04_container/03_tuple" />
       <recent name="$PROJECT_DIR$/ca/bytetube/04_container" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ca/bytetube/04_container/str" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -60,30 +61,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.FuncDemo04">
-    <configuration name="DictExtends" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python10" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ca/bytetube/04_container/06_extends" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ca/bytetube/04_container/06_extends/DictExtends.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="FuncDemo01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.FuncDemo09">
+    <configuration name="AccountManagementSystem" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python10" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,7 +75,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ca/bytetube/06_function/FuncDemo01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ca/bytetube/06_function/AccountManagementSystem.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,7 +84,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="FuncDemo02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="FuncDemo06" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python10" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -118,7 +97,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ca/bytetube/06_function/FuncDemo02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ca/bytetube/06_function/FuncDemo06.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,7 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="FuncDemo03" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="FuncDemo07" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python10" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -140,7 +119,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ca/bytetube/06_function/FuncDemo03.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ca/bytetube/06_function/FuncDemo07.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,7 +128,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="FuncDemo04" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="FuncDemo08" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python10" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -162,7 +141,29 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ca/bytetube/06_function/FuncDemo04.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ca/bytetube/06_function/FuncDemo08.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FuncDemo09" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python10" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ca/bytetube/06_function" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ca/bytetube/06_function/FuncDemo09.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,11 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.FuncDemo04" />
-        <item itemvalue="Python.FuncDemo03" />
-        <item itemvalue="Python.FuncDemo02" />
-        <item itemvalue="Python.FuncDemo01" />
-        <item itemvalue="Python.DictExtends" />
+        <item itemvalue="Python.FuncDemo09" />
+        <item itemvalue="Python.AccountManagementSystem" />
+        <item itemvalue="Python.FuncDemo08" />
+        <item itemvalue="Python.FuncDemo07" />
+        <item itemvalue="Python.FuncDemo06" />
       </list>
     </recent_temporary>
   </component>
@@ -198,7 +199,8 @@
       <workItem from="1593817769279" duration="7693000" />
       <workItem from="1593990117659" duration="6416000" />
       <workItem from="1594594987222" duration="8763000" />
-      <workItem from="1595027127364" duration="6477000" />
+      <workItem from="1595027127364" duration="7650000" />
+      <workItem from="1595201593942" duration="6775000" />
     </task>
     <task id="LOCAL-00001" summary="add function">
       <created>1595033459432</created>
@@ -207,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595033459433</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add function">
+      <created>1595038558332</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1595038558332</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -218,7 +227,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -256,11 +267,13 @@
     <SUITE FILE_PATH="coverage/python10$ListExtends.coverage" NAME="ListExtends Coverage Results" MODIFIED="1595035209892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ca/bytetube/04_container/06_extends" />
     <SUITE FILE_PATH="coverage/python10$StrDemo02.coverage" NAME="StrDemo02 Coverage Results" MODIFIED="1593992458915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ca/bytetube/04_container" />
     <SUITE FILE_PATH="coverage/python10$SetDemo05.coverage" NAME="SetDemo05 Coverage Results" MODIFIED="1594603885376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ca/bytetube/04_container/05_set" />
+    <SUITE FILE_PATH="coverage/python10$AccountManagementSystem.coverage" NAME="AccountManagementSystem Coverage Results" MODIFIED="1595209564455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ca/bytetube/06_function" />
     <SUITE FILE_PATH="coverage/python10$ForDemo12.coverage" NAME="ForDemo12 Coverage Results" MODIFIED="1593825927304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ca/bytetube/03_loop" />
     <SUITE FILE_PATH="coverage/python10$StrPractice3.coverage" NAME="StrPractice3 Coverage Results" MODIFIED="1593999869832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ca/bytetube/04_container" />
     <SUITE FILE_PATH="coverage/python10$DictDemo02.coverage" NAME="DictDemo02 Coverage Results" MODIFIED="1594598976805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ca/bytetube/04_container/04_dict" />
     <SUITE FILE_PATH="coverage/python10$FuncDemo03.coverage" NAME="FuncDemo03 Coverage Results" MODIFIED="1595037251895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ca/bytetube/06_function" />
     <SUITE FILE_PATH="coverage/python10$06_convert.coverage" NAME="06_convert Coverage Results" MODIFIED="1593391692023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ca/bytetube/basic" />
+    <SUITE FILE_PATH="coverage/python10$FuncDemo09.coverage" NAME="FuncDemo09 Coverage Results" MODIFIED="1595210594700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ca/bytetube/06_function" />
     <SUITE FILE_PATH="coverage/python10$WhileDemo07.coverage" NAME="WhileDemo07 Coverage Results" MODIFIED="1593823043905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ca/bytetube/03_loop" />
     <SUITE FILE_PATH="coverage/python10$ListDemo03.coverage" NAME="ListDemo03 Coverage Results" MODIFIED="1594000712952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ca/bytetube/04_container/list" />
     <SUITE FILE_PATH="coverage/python10$StrPractice2.coverage" NAME="StrPractice2 Coverage Results" MODIFIED="1593998344605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ca/bytetube/04_container" />
@@ -272,6 +285,7 @@
     <SUITE FILE_PATH="coverage/python10$WhileDemo03.coverage" NAME="WhileDemo03 Coverage Results" MODIFIED="1593820162418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ca/bytetube/03_loop" />
     <SUITE FILE_PATH="coverage/python10$DictDemo03.coverage" NAME="DictDemo03 Coverage Results" MODIFIED="1594599091504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ca/bytetube/04_container/04_dict" />
     <SUITE FILE_PATH="coverage/python10$SetDemo04.coverage" NAME="SetDemo04 Coverage Results" MODIFIED="1594603512264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ca/bytetube/04_container/05_set" />
+    <SUITE FILE_PATH="coverage/python10$FuncDemo08.coverage" NAME="FuncDemo08 Coverage Results" MODIFIED="1595203733769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ca/bytetube/06_function" />
     <SUITE FILE_PATH="coverage/python10$SetDemo03.coverage" NAME="SetDemo03 Coverage Results" MODIFIED="1594603281034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ca/bytetube/04_container/05_set" />
     <SUITE FILE_PATH="coverage/python10$BubbleSort.coverage" NAME="BubbleSort Coverage Results" MODIFIED="1594605111314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ca/bytetube/05_sort" />
     <SUITE FILE_PATH="coverage/python10$04_outprint.coverage" NAME="04_outprint Coverage Results" MODIFIED="1593389972189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ca/bytetube/basic" />
@@ -287,10 +301,12 @@
     <SUITE FILE_PATH="coverage/python10$DictDemo04.coverage" NAME="DictDemo04 Coverage Results" MODIFIED="1594600508548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ca/bytetube/04_container/04_dict" />
     <SUITE FILE_PATH="coverage/python10$DictExtends.coverage" NAME="DictExtends Coverage Results" MODIFIED="1595035545282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ca/bytetube/04_container/06_extends" />
     <SUITE FILE_PATH="coverage/python10$FuncDemo01.coverage" NAME="FuncDemo01 Coverage Results" MODIFIED="1595036290306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ca/bytetube/06_function" />
+    <SUITE FILE_PATH="coverage/python10$FuncDemo07.coverage" NAME="FuncDemo07 Coverage Results" MODIFIED="1595203640101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ca/bytetube/06_function" />
     <SUITE FILE_PATH="coverage/python10$ListDemo02.coverage" NAME="ListDemo02 Coverage Results" MODIFIED="1594000070089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ca/bytetube/04_container/list" />
     <SUITE FILE_PATH="coverage/python10$WhileDemo04.coverage" NAME="WhileDemo04 Coverage Results" MODIFIED="1593820582152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ca/bytetube/03_loop" />
     <SUITE FILE_PATH="coverage/python10$DictDemo07.coverage" NAME="DictDemo07 Coverage Results" MODIFIED="1594602303106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ca/bytetube/04_container/04_dict" />
     <SUITE FILE_PATH="coverage/python10$FuncDemo04.coverage" NAME="FuncDemo04 Coverage Results" MODIFIED="1595038371452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ca/bytetube/06_function" />
+    <SUITE FILE_PATH="coverage/python10$FuncDemo06.coverage" NAME="FuncDemo06 Coverage Results" MODIFIED="1595202735572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ca/bytetube/06_function" />
     <SUITE FILE_PATH="coverage/python10$DictDemo05.coverage" NAME="DictDemo05 Coverage Results" MODIFIED="1594600837726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ca/bytetube/04_container/04_dict" />
     <SUITE FILE_PATH="coverage/python10$01_hello_world.coverage" NAME="01_hello_world Coverage Results" MODIFIED="1593224541059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ca/bytetube/basic" />
     <SUITE FILE_PATH="coverage/python10$WhileDemo01.coverage" NAME="WhileDemo01 Coverage Results" MODIFIED="1593818876325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ca/bytetube/03_loop" />
@@ -303,6 +319,7 @@
     <SUITE FILE_PATH="coverage/python10$WhileDemo05.coverage" NAME="WhileDemo05 Coverage Results" MODIFIED="1593821032072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ca/bytetube/03_loop" />
     <SUITE FILE_PATH="coverage/python10$ListDemo01.coverage" NAME="ListDemo01 Coverage Results" MODIFIED="1593999781894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ca/bytetube/04_container/list" />
     <SUITE FILE_PATH="coverage/python10$SetDemo02.coverage" NAME="SetDemo02 Coverage Results" MODIFIED="1594603158371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ca/bytetube/04_container/05_set" />
+    <SUITE FILE_PATH="coverage/python10$FuncDemo05.coverage" NAME="FuncDemo05 Coverage Results" MODIFIED="1595202305085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ca/bytetube/06_function" />
     <SUITE FILE_PATH="coverage/python10$StrDemo03.coverage" NAME="StrDemo03 Coverage Results" MODIFIED="1593992837276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ca/bytetube/04_container" />
   </component>
 </project>
