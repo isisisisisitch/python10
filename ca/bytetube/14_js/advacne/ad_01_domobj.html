@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<img src="img/off.gif" id="light">
+<script>
+
+    function func() {
+        alert("clicked");
+
+    }
+
+    var light = document.getElementById("light");
+    //事件的组成：1。事件源（被绑定的对象） 2。事件（点击，键入，鼠标的悬浮。。。）3。触发函数
+
+    light.onclick = func;
+
+</script>
+
+</body>
+</html>

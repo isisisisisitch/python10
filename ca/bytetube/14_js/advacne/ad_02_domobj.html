@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<img src="img/off.gif" id="light">
+<script>
+    /*
+        1.获取图片对象
+        2。绑定事件
+        3。每次点击切换图片
+     */
+
+    //1.获取图片对象
+    var light = document.getElementById("light");
+    //事件的组成：1。事件源（被绑定的对象） 2。事件（点击，键入，鼠标的悬浮。。。）3。触发函数
+    //2。绑定事件
+    var flag = false;
+    light.onclick = function () {
+        if (flag){
+             light.src = "img/off.gif";
+             flag = false;
+        }else {
+              light.src = "img/on.gif";
+              flag = true;
+        }
+
+
+    };
+
+</script>
+
+</body>
+</html>
