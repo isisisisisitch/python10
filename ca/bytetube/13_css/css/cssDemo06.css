@@ -1,0 +1,7 @@
+div p{
+    color: red;
+}
+
+div > #p1{
+    color: blue;
+}

@@ -2,24 +2,69 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00988d75-4e79-4ef1-ac82-922882bd8453" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ca/bytetube/10_io/IODemo01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ca/bytetube/10_io/IODemo02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ca/bytetube/10_io/IODemo03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ca/bytetube/10_io/IODemo04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ca/bytetube/10_io/sound.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ca/bytetube/10_io/sound_backup.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ca/bytetube/10_io/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ca/bytetube/10_io/test_backup.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ca/bytetube/11_exception/ExceptionDemo01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ca/bytetube/11_exception/ExceptionDemo02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ca/bytetube/11_exception/ExceptionDemo03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ca/bytetube/11_exception/ExceptionDemo04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ca/bytetube/11_exception/ExceptionDemo05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ca/bytetube/11_exception/ExceptionDemo06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ca/bytetube/11_exception/ExceptionDemo07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ca/bytetube/11_exception/ExceptionDemo08.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ca/bytetube/11_exception/ExceptionDemo09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ca/bytetube/11_exception/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/12_html/HtmlDemo01.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/12_html/HtmlDemo02.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/12_html/HtmlDemo03.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/12_html/HtmlDemo04.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/12_html/HtmlDemo05.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/12_html/demo/HtmlDemo03.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/12_html/form/formDemo01.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/12_html/form/formDemo02.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/12_html/form/img/login_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/12_html/form/img/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/12_html/form/img/regbtn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/12_html/form/img/register_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/12_html/form/img/verify_code.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/12_html/image/banner_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/12_html/image/banner_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/12_html/image/banner_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/12_html/image/footer_service.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/12_html/image/guonei_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/12_html/image/hot_tel.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/12_html/image/hotel_tel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/12_html/image/icon_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/12_html/image/icon_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/12_html/image/icon_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/12_html/image/icon_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/12_html/image/icon_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/12_html/image/icon_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/12_html/image/icon_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/12_html/image/jiangwai_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/12_html/image/jiangxuan_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/12_html/image/jiangxuan_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/12_html/image/jiangxuan_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/12_html/image/jiangxuan_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/12_html/image/jiangxuan_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/12_html/image/jingxuan_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/12_html/image/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/12_html/image/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/12_html/image/top_banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/12_html/image/tv01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/12_html/image/tv02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/12_html/image/tv03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/12_html/image/tv04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/12_html/image/tv05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/12_html/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/13_css/css/cssDemo03.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/13_css/css/cssDemo04.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/13_css/css/cssDemo05.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/13_css/css/cssDemo06.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/13_css/css/cssDemo07.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/13_css/cssDemo01.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/13_css/cssDemo02.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/13_css/cssDemo03.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/13_css/cssDemo04.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/13_css/cssDemo05.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/13_css/cssDemo06.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/13_css/cssDemo07.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/13_css/cssDemo08.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/13_css/cssDemo09.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/13_css/cssDemo10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/13_css/img/login_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/13_css/img/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/13_css/img/regbtn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/13_css/img/register_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/13_css/img/verify_code.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,6 +77,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -44,20 +91,23 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ca/bytetube/11_exception" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ca/bytetube/13_css" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ca/bytetube/13_css" />
+      <recent name="$PROJECT_DIR$/ca/bytetube/13_css/css" />
+      <recent name="$PROJECT_DIR$/ca/bytetube/12_html/form" />
+      <recent name="$PROJECT_DIR$/ca/bytetube/12_html" />
       <recent name="$PROJECT_DIR$/ca/bytetube/11_exception" />
-      <recent name="$PROJECT_DIR$/ca/bytetube/10_io" />
-      <recent name="$PROJECT_DIR$/ca/bytetube/09_designpattern" />
-      <recent name="$PROJECT_DIR$/ca/bytetube/08_poly" />
-      <recent name="$PROJECT_DIR$/ca/bytetube/07_oop/extends" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ca/bytetube/12_html/demo" />
       <recent name="$PROJECT_DIR$/ca/bytetube/10_io" />
       <recent name="$PROJECT_DIR$/ca/bytetube/04_container/str" />
     </key>
@@ -74,52 +124,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ExceptionDemo09">
-    <configuration name="ExceptionDemo05" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python10" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ca/bytetube/11_exception" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ca/bytetube/11_exception/ExceptionDemo05.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+  <component name="RunManager" selected="JavaScript Debug.cssDemo03.html">
+    <configuration name="HtmlDemo02.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/python10/ca/bytetube/12_html/HtmlDemo02.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="ExceptionDemo06" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python10" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ca/bytetube/11_exception" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ca/bytetube/11_exception/ExceptionDemo06.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+    <configuration name="cssDemo03.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/python10/ca/bytetube/13_css/cssDemo03.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="ExceptionDemo07" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Dp02_singleton_lazy" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python10" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -127,12 +139,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ca/bytetube/11_exception" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ca/bytetube/09_designpattern" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ca/bytetube/11_exception/ExceptionDemo07.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ca/bytetube/09_designpattern/Dp02_singleton_lazy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -187,11 +199,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.cssDemo03.html" />
+        <item itemvalue="JavaScript Debug.HtmlDemo02.html" />
+        <item itemvalue="Python.Dp02_singleton_lazy" />
         <item itemvalue="Python.ExceptionDemo09" />
         <item itemvalue="Python.ExceptionDemo08" />
-        <item itemvalue="Python.ExceptionDemo07" />
-        <item itemvalue="Python.ExceptionDemo06" />
-        <item itemvalue="Python.ExceptionDemo05" />
       </list>
     </recent_temporary>
   </component>
@@ -218,7 +230,13 @@
       <workItem from="1595641591482" duration="12185000" />
       <workItem from="1596237333373" duration="7029000" />
       <workItem from="1596401353784" duration="615000" />
-      <workItem from="1596409265179" duration="5937000" />
+      <workItem from="1596409265179" duration="6043000" />
+      <workItem from="1596474068148" duration="2842000" />
+      <workItem from="1597024006647" duration="1583000" />
+      <workItem from="1597083432516" duration="709000" />
+      <workItem from="1597500340932" duration="7772000" />
+      <workItem from="1597619216033" duration="8722000" />
+      <workItem from="1598105590653" duration="367000" />
     </task>
     <task id="LOCAL-00001" summary="add function">
       <created>1595033459432</created>
@@ -262,7 +280,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596247601627</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add io and exception">
+      <created>1596466930277</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1596466930277</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -288,7 +313,8 @@
     <MESSAGE value="add functions" />
     <MESSAGE value="add inheritance" />
     <MESSAGE value="add design pattern" />
-    <option name="LAST_COMMIT_MESSAGE" value="add design pattern" />
+    <MESSAGE value="add io and exception" />
+    <option name="LAST_COMMIT_MESSAGE" value="add io and exception" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -362,6 +388,7 @@
     <SUITE FILE_PATH="coverage/python10$ExceptionDemo04.coverage" NAME="ExceptionDemo04 Coverage Results" MODIFIED="1596415366049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ca/bytetube/11_exception" />
     <SUITE FILE_PATH="coverage/python10$IODemo01.coverage" NAME="IODemo01 Coverage Results" MODIFIED="1596411139144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ca/bytetube/10_io" />
     <SUITE FILE_PATH="coverage/python10$ExceptionDemo09.coverage" NAME="ExceptionDemo09 Coverage Results" MODIFIED="1596416633018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ca/bytetube/11_exception" />
+    <SUITE FILE_PATH="coverage/python10$Dp02_singleton_lazy.coverage" NAME="Dp02_singleton_lazy Coverage Results" MODIFIED="1596477008249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ca/bytetube/09_designpattern" />
     <SUITE FILE_PATH="coverage/python10$ExtendsDemo04.coverage" NAME="ExtendsDemo04 Coverage Results" MODIFIED="1595813755454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ca/bytetube/07_oop/extends" />
     <SUITE FILE_PATH="coverage/python10$Dp04_proxy.coverage" NAME="Dp04_proxy Coverage Results" MODIFIED="1596246307342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ca/bytetube/09_designpattern" />
     <SUITE FILE_PATH="coverage/python10$WhileDemo06.coverage" NAME="WhileDemo06 Coverage Results" MODIFIED="1593821950847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ca/bytetube/03_loop" />
