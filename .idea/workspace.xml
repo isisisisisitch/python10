@@ -2,26 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00988d75-4e79-4ef1-ac82-922882bd8453" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ca/bytetube/14_js/advacne/ad_01_domobj.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ca/bytetube/14_js/advacne/ad_02_domobj.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ca/bytetube/14_js/advacne/img/banner_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ca/bytetube/14_js/advacne/img/banner_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ca/bytetube/14_js/advacne/img/banner_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ca/bytetube/14_js/advacne/img/gou.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ca/bytetube/14_js/advacne/img/off.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ca/bytetube/14_js/advacne/img/on.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ca/bytetube/14_js/advacne/img/register_bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ca/bytetube/14_js/advacne/img/verify_code.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ca/bytetube/14_js/basic/01_start.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ca/bytetube/14_js/basic/02_variable.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ca/bytetube/14_js/basic/03_operator.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ca/bytetube/14_js/basic/04_if.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ca/bytetube/14_js/basic/05_switch.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ca/bytetube/14_js/basic/06_loop.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ca/bytetube/14_js/basic/07_obj.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ca/bytetube/14_js/basic/08_array.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ca/bytetube/14_js/basic/09_code.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ca/bytetube/14_js/js/demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/14_js/advacne/ad_03_bomobj.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/14_js/advacne/ad_04_bomobj.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/14_js/advacne/ad_05_bomobj.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/14_js/advacne/ad_06_bomobj.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,18 +42,19 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/ca/bytetube/14_js/basic" />
-      <recent name="$PROJECT_DIR$/ca/bytetube/12_html/demo" />
-      <recent name="$PROJECT_DIR$/ca/bytetube/10_io" />
-      <recent name="$PROJECT_DIR$/ca/bytetube/04_container/str" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/ca/bytetube/14_js/advacne" />
       <recent name="$PROJECT_DIR$/ca/bytetube/14_js" />
       <recent name="$PROJECT_DIR$/ca/bytetube/13_css" />
       <recent name="$PROJECT_DIR$/ca/bytetube/13_css/css" />
       <recent name="$PROJECT_DIR$/ca/bytetube/12_html/form" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ca/bytetube/14_js/advacne" />
+      <recent name="$PROJECT_DIR$/ca/bytetube/14_js/basic" />
+      <recent name="$PROJECT_DIR$/ca/bytetube/12_html/demo" />
+      <recent name="$PROJECT_DIR$/ca/bytetube/10_io" />
+      <recent name="$PROJECT_DIR$/ca/bytetube/04_container/str" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -139,7 +124,9 @@
       <workItem from="1597083432516" duration="709000" />
       <workItem from="1597500340932" duration="7772000" />
       <workItem from="1597619216033" duration="8722000" />
-      <workItem from="1598105590653" duration="9081000" />
+      <workItem from="1598105590653" duration="9207000" />
+      <workItem from="1598370299394" duration="28000" />
+      <workItem from="1598655206705" duration="6578000" />
     </task>
     <task id="LOCAL-00001" summary="add function">
       <created>1595033459432</created>
@@ -197,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598106372003</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add js">
+      <created>1598139883457</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1598139883457</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -225,7 +219,8 @@
     <MESSAGE value="add design pattern" />
     <MESSAGE value="add io and exception" />
     <MESSAGE value="add css" />
-    <option name="LAST_COMMIT_MESSAGE" value="add css" />
+    <MESSAGE value="add js" />
+    <option name="LAST_COMMIT_MESSAGE" value="add js" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

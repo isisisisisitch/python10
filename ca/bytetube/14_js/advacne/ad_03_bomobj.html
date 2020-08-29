@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<input type="button" id="openbtn" value="openbtn">
+<input type="button" id="closebtn" value="closebtn">
+
+<script>
+    //window 只要当前页面一加载，那么window对象就生效
+    //window由于广泛使用，所以可以省略window关键字
+  // alert("hello");
+
+  // var res = confirm("do you want to exit?");//boolean
+  //   if (res){
+  //       alert("bye!");
+  //   }else {
+  //       alert("kidding me?");
+  //   }
+
+    // var name = prompt("plz enter your name");
+    // alert(name);
+    // var newWin ;
+    // var openbtn = document.getElementById("openbtn");
+    // openbtn.onclick = function () {
+    //    newWin = open("https://www.cs.usfca.edu/~galles/visualization/Algorithms.html") ;
+    // };
+    //
+    //  var closebtn = document.getElementById("closebtn");
+    // closebtn.onclick = function () {
+    //  newWin.close();//谁调用我 ，我关谁
+    // };
+
+    var ti = window.setInterval(fun,2000);
+
+    function fun() {
+        alert("bytetube");
+
+    }
+clearInterval(ti);
+
+</script>
+
+</body>
+</html>

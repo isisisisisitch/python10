@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<img src="img/banner_1.jpg" id="img">
+
+<script>
+
+    /*
+        1.在页面上使用img标签展示图片
+        2.定义一个方法，修改轮播图  changeImg  就是修改src中的值
+        3.使用定时器，每隔2秒切换一次图片
+     */
+
+    var number = 1;
+    function changeImg() {
+        number++;
+        if (number>3){
+            number = 1;
+        }
+
+        var img = document.getElementById("img");
+        img.src = "img/banner_"+number+".jpg";
+    }
+
+    var timeOut = 2000;
+    window.setInterval(changeImg,timeOut);
+
+
+</script>
+
+</body>
+</html>

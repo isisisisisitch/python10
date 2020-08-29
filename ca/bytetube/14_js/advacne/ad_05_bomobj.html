@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        p{
+            text-align: center;
+            size: A3;
+        }
+
+        span{
+            color: red;
+        }
+
+    </style>
+</head>
+<body>
+
+<p>
+Welcome to ByteTube,<span id="time">5</span>  s will go to home page...
+</p>
+
+<script>
+
+    /*
+    1.准备显示页面
+    2.倒计时效果
+    2.1 获取span标签
+    2.2 修改span中的内容--->changeTime
+    2.3 定义定时器，定时调用changeTime函数
+
+    3.判断当前时间time<=0,Location对象跳转到home page
+     */
+
+    var second = 5;
+    var time = document.getElementById("time");
+
+    function changeTime() {
+        second--;
+
+        if (second <= 0){
+            location.href = "https://www.cs.usfca.edu/~galles/visualization/Algorithms.html";
+        }
+
+        time.innerHTML = second+"";
+
+    }
+
+    window.setInterval(changeTime,1000);
+
+
+</script>
+
+</body>
+</html>
