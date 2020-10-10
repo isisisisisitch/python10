@@ -11,31 +11,18 @@ lock = threading.Lock()
 #循环100万次进行累加任务
 def task1():
     current_thread = threading.current_thread()
-    print("task1:", current_thread)
-
+    print("current_thread:", current_thread)
     #上锁
     lock.acquire()
-    for i in range(100):
+    for i in range(10):
         global g_sum
         g_sum = g_sum + 1
 
         print("task1 res:", g_sum,current_thread)
         # 释放锁
-    lock.release()
+    # lock.release()
 
 
-
-#循环100万次进行累加任务
-def task2():
-    # 上锁
-    lock.acquire()
-    for i in range(1000000):
-        global g_sum
-        g_sum = g_sum + 1
-
-    print("task2 res:", g_sum)
-    # 释放锁
-    lock.release()
 
 #2.创建线程
 
