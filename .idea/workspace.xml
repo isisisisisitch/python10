@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00988d75-4e79-4ef1-ac82-922882bd8453" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ca/bytetube/17_tcp/03_tcp_server2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/18_http/_01_static_web_server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/18_http/_02_static_web_server2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/18_http/static/error.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/18_http/static/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/18_http/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/18_http/static/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca/bytetube/18_http/static/web.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ca/bytetube/17_tcp/02_tcp_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/ca/bytetube/17_tcp/02_tcp_server.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +39,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ca/bytetube/17_tcp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ca/bytetube/18_http" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -48,11 +53,11 @@
       <recent name="$PROJECT_DIR$/ca/bytetube/10_io" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ca/bytetube/18_http" />
+      <recent name="$PROJECT_DIR$/ca/bytetube/18_http/static" />
       <recent name="$PROJECT_DIR$/ca/bytetube/17_tcp" />
       <recent name="$PROJECT_DIR$/ca/bytetube/16_thread" />
       <recent name="$PROJECT_DIR$/ca/bytetube/14_process" />
-      <recent name="$PROJECT_DIR$/ca/bytetube/14_js/advacne" />
-      <recent name="$PROJECT_DIR$/ca/bytetube/14_js" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -67,7 +72,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.01_tcp_client">
+  <component name="RunManager" selected="Python._02_static_web_server2">
     <configuration name="01_tcp_client" type="PythonConfigurationType" factoryName="Python" singleton="false" temporary="true">
       <module name="python10" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -134,7 +139,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="06_thread_lock" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="_01_static_web_server" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python10" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,12 +147,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ca/bytetube/16_thread" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ca/bytetube/18_http" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ca/bytetube/16_thread/06_thread_lock.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ca/bytetube/18_http/_01_static_web_server.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,7 +161,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="07_dead_lock" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="_02_static_web_server2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python10" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -164,12 +169,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ca/bytetube/16_thread" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ca/bytetube/18_http" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ca/bytetube/16_thread/07_dead_lock.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ca/bytetube/18_http/_02_static_web_server2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -180,18 +185,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.02_tcp_server" />
-      <item itemvalue="Python.06_thread_lock" />
-      <item itemvalue="Python.07_dead_lock" />
       <item itemvalue="Python.01_tcp_client" />
       <item itemvalue="Python.03_tcp_server2" />
+      <item itemvalue="Python._01_static_web_server" />
+      <item itemvalue="Python._02_static_web_server2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python._02_static_web_server2" />
+        <item itemvalue="Python._01_static_web_server" />
         <item itemvalue="Python.01_tcp_client" />
         <item itemvalue="Python.03_tcp_server2" />
         <item itemvalue="Python.02_tcp_server" />
-        <item itemvalue="Python.07_dead_lock" />
-        <item itemvalue="Python.06_thread_lock" />
       </list>
     </recent_temporary>
   </component>
@@ -237,7 +242,7 @@
       <workItem from="1602285073512" duration="6754000" />
       <workItem from="1602709377143" duration="234000" />
       <workItem from="1602861938192" duration="9000" />
-      <workItem from="1602889443436" duration="3730000" />
+      <workItem from="1602889443436" duration="11102000" />
     </task>
     <task id="LOCAL-00001" summary="add function">
       <created>1595033459432</created>
@@ -330,7 +335,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602295592829</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="add chat app">
+      <created>1602900153204</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1602900153204</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -363,7 +375,8 @@
     <MESSAGE value="add process" />
     <MESSAGE value="add thread" />
     <MESSAGE value="add socket" />
-    <option name="LAST_COMMIT_MESSAGE" value="add socket" />
+    <MESSAGE value="add chat app" />
+    <option name="LAST_COMMIT_MESSAGE" value="add chat app" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -383,6 +396,11 @@
           <line>21</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ca/bytetube/18_http/_02_static_web_server2.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -399,6 +417,7 @@
     <SUITE FILE_PATH="coverage/python10$01_oopdemo01.coverage" NAME="01_oopdemo01 Coverage Results" MODIFIED="1595805795475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ca/bytetube/07_oop" />
     <SUITE FILE_PATH="coverage/python10$05_thread_global_variable_error.coverage" NAME="05_thread_global_variable_error Coverage Results" MODIFIED="1601862069030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ca/bytetube/16_thread" />
     <SUITE FILE_PATH="coverage/python10$PolyDemo03.coverage" NAME="PolyDemo03 Coverage Results" MODIFIED="1596239551305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ca/bytetube/08_poly" />
+    <SUITE FILE_PATH="coverage/python10$_02_static_web_server2.coverage" NAME="_02_static_web_server2 Coverage Results" MODIFIED="1603071273302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ca/bytetube/18_http" />
     <SUITE FILE_PATH="coverage/python10$Oopdemo05.coverage" NAME="Oopdemo05 Coverage Results" MODIFIED="1595807294855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ca/bytetube/07_oop" />
     <SUITE FILE_PATH="coverage/python10$DictDemo02.coverage" NAME="DictDemo02 Coverage Results" MODIFIED="1594598976805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ca/bytetube/04_container/04_dict" />
     <SUITE FILE_PATH="coverage/python10$IODemo04.coverage" NAME="IODemo04 Coverage Results" MODIFIED="1596413309025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ca/bytetube/10_io" />
@@ -481,6 +500,7 @@
     <SUITE FILE_PATH="coverage/python10$04_outprint.coverage" NAME="04_outprint Coverage Results" MODIFIED="1593389972189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ca/bytetube/basic" />
     <SUITE FILE_PATH="coverage/python10$StrDemo06.coverage" NAME="StrDemo06 Coverage Results" MODIFIED="1593995571067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ca/bytetube/04_container" />
     <SUITE FILE_PATH="coverage/python10$ForDemo10.coverage" NAME="ForDemo10 Coverage Results" MODIFIED="1593825413798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ca/bytetube/03_loop" />
+    <SUITE FILE_PATH="coverage/python10$_01_static_web_server.coverage" NAME="_01_static_web_server Coverage Results" MODIFIED="1603068063726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ca/bytetube/18_http" />
     <SUITE FILE_PATH="coverage/python10$DictDemo01.coverage" NAME="DictDemo01 Coverage Results" MODIFIED="1594598442400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ca/bytetube/04_container/04_dict" />
     <SUITE FILE_PATH="coverage/python10$Oopdemo07.coverage" NAME="Oopdemo07 Coverage Results" MODIFIED="1595808496021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ca/bytetube/07_oop" />
     <SUITE FILE_PATH="coverage/python10$Age.coverage" NAME="Age Coverage Results" MODIFIED="1593394188708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ca/bytetube/processControl" />
